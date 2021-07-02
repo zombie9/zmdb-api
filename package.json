@@ -1,0 +1,23 @@
+{
+  "name": "zmdb-api",
+  "version": "1.0.0",
+  "description": "Zombie Movie API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zombie9/zmdb-api.git"
+  },
+  "author": "Darryl Banks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zombie9/zmdb-api/issues"
+  },
+  "homepage": "https://github.com/zombie9/zmdb-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
