@@ -2,7 +2,7 @@
   "movies": [
     {
       "title": "Night of the Living Dead",
-      "director": "Gearge A Romero",
+      "director": "Gearge A. Romero",
       "year": 1968,
       "id": 1,
       "tmdbId": "10331"
@@ -10,34 +10,34 @@
     {
       "id": 2,
       "title": "Dawn of the Dead",
-      "director": "Gearge A Romero",
+      "director": "Gearge A. Romero",
       "year": 1978,
       "tmdbId": "923"
     },
     {
       "id": 3,
       "title": "Day of the Dead",
-      "director": "Gearge A Romero",
+      "director": "Gearge A. Romero",
       "year": 1985,
       "tmdbId": "8408"
     },
     {
       "id": 4,
       "title": "Land of the Dead",
-      "director": "Gearge A Romero",
+      "director": "Gearge A. Romero",
       "year": 2005,
       "tmdbId": "11683"
     },
     {
       "id": 5,
       "title": "Return of the Living Dead",
-      "director": "Gearge A Romero",
+      "director": "Dan O'Bannon",
       "year": 1985,
       "tmdbId": "10925"
     },
     {
       "title": "Diary of the Dead",
-      "director": "Gearge A Romero",
+      "director": "Gearge A. Romero",
       "year": 2007,
       "id": 6,
       "tmdbId": "13025"
